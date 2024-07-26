@@ -3,7 +3,7 @@
     {
         "Category":["Deep Learning", "Optimization","Software Development"],
         "Time_Period":"Apr  2024 - Jun 2024",
-        "URL":"",
+        "URL":"https://github.com/ayushSharma1074/Neural_Style_Transfer",
         "Title":"ImageInStyle: AI Art Transformer",
         "Desc":"ImageInStyle is a Streamlit app that uses Neural Style Transfer to blend the style of one image with the content of another. Users can upload their own photos and choose an artistic style. The app then combines these to create a new image that looks like the user’s photo was painted in the chosen style. This tool demonstrates the power of AI in creating art and allows users to explore digital creativity easily.",
         "Image": "assets/img/nst.png"    
@@ -12,7 +12,7 @@
     {
         "Category":["Deep Learning", "Graph Neural Networks", "Recommender Systems"],
         "Time_Period":"Jan  2023 - Apr 2023",
-        "URL":"",
+        "URL":"https://github.com/ayushSharma1074/Graph-based-Playlist-Continuation-using-LightGCN.",
         "Title":"G-PLAY: Graph-based Playlist Continuation using Neural Collaborative Filtering",
         "Desc":"This project uses LightGCN, a graph-based method, to improve music recommendations on Spotify. LightGCN addresses common problems in collaborative filtering, such as lack of metadata, sparsity, and scalability. It predicts which songs users are likely to add to their playlists by analyzing their existing preferences and playlist history. LightGCN also handles new users or songs by using existing data to generate useful recommendations. The goal is to enhance the accuracy and efficiency of music recommendations for a better user experience.",
         "Image": "assets/img/GCN.jpg"    
@@ -21,7 +21,7 @@
     {
         "Category":["Deep Learning", "Time Series Forcasting", "LSTM"],
         "Time_Period":"Sep  2022 - Dec 2022",
-        "URL":"",
+        "URL":"https://github.com/ayushSharma1074/Analyzing-Vancouver-s-public-transport-system-using-LSTM-for-time-series-analysis",
         "Title":"Vancouver Transit Delay Prediction using LSTM",
         "Desc":"The project revolves around utilizing Vancouver’s public transit real-time and static data to  analyze the data to figure out delay patterns, reasons and possible solutions to increase the reliability of the transit system. In the end, we fused the two different datasets (comprising static and real-time transit bus data) was used to train a machine learning model using Tensorflow and Keras for multivariate time-series forecasting in order to predict route delays. To capture longer term dependencies in sequences of trips taken by different buses, we chose the LSTM (Long short-term memory) algorithm to make better predictions. Unlike typical RNNs (Recurrent Neural Networks), LSTM’s ability to learn the context of a given sequence does not deteriorate with distance.",
         "Image": "assets/img/transit.png"    
@@ -30,7 +30,7 @@
     {
         "Category":["Large Language Model", "Natural Laguage Processing", "Fine-Tuning", "PEFT"],
         "Time_Period":"Jan  2024 - Apr 2024",
-        "URL":"",
+        "URL":"https://github.com/ayushSharma1074/Fine-Tune-LLM-Medical-Question-Answering",
         "Title":"Large Language Models for Medical Question Answering",
         "Desc":"Large language models(LLMs) have demonstrated their excellent generative capabilities in various natural language processing (NLP) tasks. These models have been fine-tuned to support domain-specific tasks more effectively.However, there remains a significant gap within the Medical Question-Answering (MQA). In this project, the goal was to explore the fine-tuning of different types of language models for Closed-Book MQA and compare their performance. Specifically,we aim to determine whether the decoder-only architectures (such as GPT-2 and BLOOM) or the encoder-only architecture (such as t5) is better suited for the MQA task.",
         "Image": "assets/img/medical.png"    
@@ -39,7 +39,7 @@
     {
         "Category":["Distributed Cloud Storage", "BlockChain", "Google Cloud Platform"],
         "Time_Period":"Jan  2023 - Apr 2023",
-        "URL":"",
+        "URL":"https://github.com/ayushSharma1074/Distributed-Storage-Implementation-With-The-Help-Of-BlockChain",
         "Title":"Using Blockchain to Implement Distributed Storage",
         "Desc":"The project goal is to design a distributed storage system based on blockchain technology. A project requirement is to store file metadata on the blockchain while contents are stored off-chain. To satisfy this requirement, we use smart contracts as a means for authentication and store the Merkle hash of user files on the blockchain for storage integrity. Physical files are kept in separate drives called buckets and a central management system handles the remainder of the metadata processing. We conclude our discussion with strategies to achieve fault tolerance, load balancing, and security.",
         "Image": "assets/img/blockchain.png"    
@@ -49,7 +49,7 @@
     {
         "Category":["Video Processing", "IOT"],
         "Time_Period":"Jan  2018 - Jun 2018",
-        "URL":"",
+        "URL":"https://acadpubl.eu/hub/2018-119-12/articles/7/1788.pdf",
         "Title":"Forest Fire Detection using IoT Enabled Drone",
         "Desc":"Fire outbreak has been a common issue in forests and large buildings. In this research we are using a drone to detect forest and building fires which uses the techniques of image processing and video processing. Our research can be divided into three main modules. The first module focuses on the cloud service ThingSpeak to perform data analysis. The Data collected by the drone, with the help of flame sensor attached to Arduino, is transferred to ThingSpeak. This is achieved through the esp8266-01 wifi module attached to Arduino. The second module is based on image processing. With the help of inbuilt camera module, the drone captures real time images and image processing is done on that image using google API. The algorithm uses content based image retrieval and detects whether fire is caught inside the image or not, along with its intensity. The algorithm also detects the objects present nearby the fire. Hence if people are present or trapped nearby the fire we can detect them and prioritize the areas which needs immediate attention. The third module focuses on video processing. The algorithm detects fire based on the color of the pixels captured. All the three modules are together integrated in this research to boost up the accuracy of fire detection by the drone. Uniqueness of this research is that it comprises of 3 different modules each having different but inter-related functions. All three modules boost up the fire detection accuracy and can thus help in saving lives",
         "Image": "assets/img/fireDetection.png"    
