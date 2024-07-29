@@ -63,6 +63,15 @@
         "Desc":"Developed a event management web portal for both event organizers and customers PHP, Maria DB and Apache Http server.",
         "Image": "assets/img/webportal.png"    
     },
+    "jsonai":
+    {
+        "Category":["Natural Langugae Processing, Software Development, Npm Package"],
+        "Time_Period":"Jan  2016 - Jun 2016",
+        "URL":"",
+        "Title":"jsonai_Validator",
+        "Desc":"jsonai-Validator is an npm package we developed where a user can provide a JSON schema and a natural text input containing information pertaining to the schema properties. Using a large language model (LLM), we create a JSON object with details from the natural language input. We also validate the JSON object created by the user to ensure it adheres to the provided JSON schema.",
+        "video": "assets/video/jsonai_demo.mp4" 
+    },
     
     "default":
     {
